@@ -1,0 +1,13 @@
+35
+ranged
+Strength
+0
+Dexterity
+2567
+503
+474
+stat 2
+19
+15
+14
+0
