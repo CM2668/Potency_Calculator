@@ -1,0 +1,18 @@
+C:\Users\Tsume\Documents\Visual Studio Builds\PotCalc\net6.0-windows\FFTTRPGCalculator.exe
+C:\Users\Tsume\Documents\Visual Studio Builds\PotCalc\net6.0-windows\FFTTRPGCalculator.deps.json
+C:\Users\Tsume\Documents\Visual Studio Builds\PotCalc\net6.0-windows\FFTTRPGCalculator.runtimeconfig.json
+C:\Users\Tsume\Documents\Visual Studio Builds\PotCalc\net6.0-windows\FFTTRPGCalculator.dll
+C:\Users\Tsume\Documents\Visual Studio Builds\PotCalc\net6.0-windows\FFTTRPGCalculator.pdb
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.csproj.AssemblyReference.cache
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.PotencyCalculator.resources
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.Properties.Resources.resources
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.csproj.GenerateResource.cache
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.AssemblyInfoInputs.cache
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.AssemblyInfo.cs
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.dll
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\refint\FFTTRPGCalculator.dll
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.pdb
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\FFTTRPGCalculator.genruntimeconfig.cache
+C:\Users\Tsume\source\repos\FFTTRPGCalculator\FFTTRPGCalculator\obj\PotCalc\net6.0-windows\ref\FFTTRPGCalculator.dll
